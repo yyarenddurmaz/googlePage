@@ -1,5 +1,5 @@
 # googlePage
- The old Google Page
+ The first Google Page
 
 ## Geliştirici Hakkında  
 Bu proje, **Yaren Durmaz** tarafından geliştirilmiştir. Web uygulamaları, frontend geliştirme ve SEO alanlarında uzmanlaşmaya çalışıyorum.
