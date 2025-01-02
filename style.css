@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+img {
+    width:275;
+    height:95;
+}
+
+input[type="text"] {
+    width: 350px;
+    padding: 2px;
+}
+
+input[type="submit"] {
+    border-width: 1px;
+    border-radius: 3px;
+}
+
+form {
+    background-color: #EEEEEE;
+    padding: 5px;
+}
+
+
+td {
+    width: 30%;
+    padding: 10px;
+    background-color: #7EE5DA;
+}
+
+table {
+    width: 100%;
+}
+
+footer p {
+    font-size: 14px;
+}
